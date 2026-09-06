@@ -6,6 +6,8 @@ PyQt5
 NumPy
 OpenCV-contrib-python 4.14.0.94 (modified version available in ".whl")
 
+Because the file is larger than 25M, it had to be split into several smaller parts.
+
 To install it, use the Windows Command Prompt and navigate to the folder where the file is located.
 opencv_contrib_python-4.14.0.94-cp312-cp312-win_amd64.whl
 
